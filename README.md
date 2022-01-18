@@ -1,2 +1,2 @@
-# Visiblity-Pig
-Once you hit the pig it will gradually disappear. 
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
